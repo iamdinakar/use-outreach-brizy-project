@@ -4,4 +4,4 @@
 
 We work hard and smart to cover eveything a sales person — founders doing sales, solo entrepreneur getting started in sales, and sales reps — needs.
 
-**This** right here is our website build. You're free to use this as a template and work your way from them, just replace the images and copy if you do so, please.
+**This** right here is the website build filed under MIT License. You're free to use this as a template and work your way from them, just replace the images and copy if you do so, please.
