@@ -1,5 +1,7 @@
 # Use-Outreach-brizy-project
 
+![Website hero section screenshot](https://github.com/iamdinakar/use-outreach-brizy-project/blob/main/assets/Website%20hero%20section%20screenshot.png)
+
 [Use Outreach](https://useoutreach.com/) is a full suite of sales and marketing products to grow your company, find leads, send emails, create a chatbot and more. 8x better sales. 0x headaches.
 
 We work hard and smart to cover eveything a sales person — founders doing sales, solo entrepreneur getting started in sales, and sales reps — needs.
